@@ -1,7 +1,9 @@
 # downloadmp3
 
- threads (Asynchronous Task) in this case dowloading a mp3 fron a http link and pay it on the application
+ a DEMO VIDEO IS ATTACHED TO THIS REPOSITORY
 
+ threads (Asynchronous Task) in this case dowloading a mp3 fron a http link and play it on the application
+ 
 ## Getting Started
 
 Suppose the user presses the button: the code
